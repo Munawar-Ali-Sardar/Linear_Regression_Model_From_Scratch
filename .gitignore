@@ -1,0 +1,8 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: Add other common ignores
+__pycache__/
+*.pyc
+*.log
+.env
